@@ -1,4 +1,4 @@
-[!banner](https://www.canva.com/design/DAGUJOgfp7s/X-8VJEkxtoH0wRW5DJE7CA/view)
+![Banner](https://www.canva.com/design/DAGUJOgfp7s/X-8VJEkxtoH0wRW5DJE7CA/view)
 
 ### 🚀 Skills para Frontend**
 
