@@ -11,8 +11,8 @@ Actualmente estoy 100% dedicada a aprender JS porque es una de las habilidades q
 ### ⚙️ Analíticas de GitHub
 <p align="">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iamanyeei&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iamanyeei&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iamanyyeei&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iamanyyeei&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 <hr />
