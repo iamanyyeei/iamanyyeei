@@ -19,6 +19,6 @@ Actualmente estoy 100% dedicada a aprender JS porque es una de las habilidades q
 
 ### 😜💗 Conecta conmigo
 
-<a href="https://linkedin.com/in/omanaany" target="blank"><img align="center" src="https://github.com/iamanyyeei/iamanyyeei/blob/master/assets/linkedin.svg" alt="kmhmubin" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/omanaany" target="blank"><img align="center" src="https://github.com/iamanyyeei/iamanyyeei/blob/master/assets/linkedin.svg" alt="anyyeei" height="30" width="30" /></a>
 
-<a href="https://instagram.com/anyyeei" target="blank"><img align="center" src="https://github.com/iamanyyeei/iamanyyeei/blob/master/assets/instagram.svg" alt="kmhmubin" height="30" width="30" /></a>
+<a href="https://instagram.com/anyyeei" target="blank"><img align="center" src="https://github.com/iamanyyeei/iamanyyeei/blob/master/assets/instagram.svg" alt="anyyeei" height="30" width="30" /></a>
