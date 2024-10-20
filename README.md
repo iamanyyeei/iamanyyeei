@@ -1,5 +1,5 @@
 <code>
-<img src="https://www.canva.com/design/DAGUJOgfp7s/0ZLYMj4qo9dB4dme1SaV7Q/view>
+<img src="https://www.canva.com/design/DAGUJOgfp7s/0ZLYMj4qo9dB4dme1SaV7Q/view" witdh="100%" height="100%">
 </code>
 
 ### 🚀 Skills para Frontend**
